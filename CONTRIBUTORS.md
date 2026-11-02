@@ -49,6 +49,7 @@
 - [@Chloe-VP](https://github.com/Chloe-VP)
 - [@chriseidhof](https://github.com/chriseidhof)
 - [@chrisrodz](https://github.com/chrisrodz)
+- [@claude](https://github.com/claude)
 - [@conhecendoia](https://github.com/conhecendoia)
 - [@connorshea](https://github.com/connorshea)
 - [@conroywhitney](https://github.com/conroywhitney)
@@ -297,9 +298,9 @@
 - [@zerone0x](https://github.com/zerone0x)
 - [@zhixianio](https://github.com/zhixianio)
 - [@zknicker](https://github.com/zknicker)
-
-_Listed are GitHub accounts only. Anonymous (email-only) commit authors
-cannot be enumerated through the GitHub API and are credited by hand in
+_Linked GitHub accounts only. Anonymous (unlinked) commit authors are
+enumerable through the API (anon=true) but are identified there only by
+name/email, which this registry does not publish; credit them by hand in
 the sections above where known._
 
 <!-- END GENERATED CONTRIBUTORS -->
